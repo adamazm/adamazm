@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on multiple projects ;-;
+- 🔭 I’m currently working at Comelse, Perpignan
 - 🌱 I’m currently learning at UTBM
-- 🤔 I’m looking for help with DevOps
+- 🤔 I’m looking for help with JS Frameworks
 - 📫 How to reach me: adam31azmi@gmail
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I didn't sleep for almost 2 days finishing a project cause I love coding lol
+- ⚡ Fun fact: Do I have a fun fact?
