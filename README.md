@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working at Comelse, Perpignan
 - 🌱 I’m currently learning at UTBM
 - 🤔 I’m looking for help with JS Frameworks
-- 📫 How to reach me: adam31azmi@gmail
+- 📫 How to reach me: adam31azmi@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Do I have a fun fact?
