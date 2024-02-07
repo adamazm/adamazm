@@ -12,6 +12,9 @@ I'm currently a student at Université de Technologie Belfort-Montbéliard, Fran
 * 🤝  I'm open to collaborating on any Laravel projects
 * ⚡  My celebrity crush is Ana de Armas
 
+<img align="right" width="400" src="https://64.media.tumblr.com/9d5a826b52bd25234174ba9efc52ecaf/99ad0100d2b5cfeb-a9/s400x600/91a1047c5c5a2b4ee2b50a86aa8c63df6fcd3fc8.gifv" alt="Ana de Armas" />
+
+
 ### Main Skills :
 
 
